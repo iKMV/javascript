@@ -1,0 +1,23 @@
+.button{
+    width: 180px;
+    height: 20px;
+    text-align: center;
+    background-color: white;
+    padding-top: 5px;
+    border: 2px solid black;
+    color: black;
+    margin-top: 250px;
+    margin-left: 580px;
+
+
+}
+
+.button:active{
+    background-color: yellow;
+}
+
+.button:hover{
+    background: yellow;
+    transition: 0.5s ease;
+
+}
